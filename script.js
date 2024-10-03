@@ -1,6 +1,6 @@
 const windowWidth = window.innerWidth;
 const imageWidth = 1440;
-const imageHeight = 5570;
+const imageHeight = 5011;
 const windowHeight = (imageHeight / imageWidth) * windowWidth;
 
 const image = document.querySelector('.image');
